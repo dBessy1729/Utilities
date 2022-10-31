@@ -1,0 +1,7 @@
+<a href="http://podcastinit.podbean.com/feed/">Restore Session</a><br />
+<a href="https://pymotw.com/2/contents.html">Python Module of the Week - Python Module of the Week</a><br />
+<a href="https://openpyxl.readthedocs.org/en/2.3.3/">openpyxl - A Python library to read/write Excel 2010 xlsx/xlsm files — openpyxl 2.3.3 documentation</a><br />
+<a href="http://openpyxl.readthedocs.org/en/2.3.3/tutorial.html">Manipulating a workbook in memory — openpyxl 2.3.3 documentation</a><br />
+<a href="http://openpyxl.readthedocs.org/en/2.3.3/charts/line.html#id1">Line Charts — openpyxl 2.3.3 documentation</a><br />
+<a href="https://isc.sans.edu/forums/diary/No+Wireshark+No+TCPDump+No+Problem/19409/">No Wireshark? No TCPDump? No Problem! - SANS Internet Storm Center</a><br />
+<a href="https://github.com/Security-Onion-Solutions/security-onion/wiki/IntroductionWalkthrough">IntroductionWalkthrough · Security-Onion-Solutions/security-onion Wiki · GitHub</a><br />

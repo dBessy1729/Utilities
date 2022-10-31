@@ -1,0 +1,8 @@
+# "randomPass" is a file that will generate a password/secret of a given length.
+# Can't remember which tutorial I got this from but it's compiled.
+# Takes one INTEGER argument which is the desired password/secret length
+
+e.g.  randomPass 24
+zSBg~=oe+i/?8N\-oWSWnU(]
+
+
