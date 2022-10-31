@@ -1,0 +1,18 @@
+# FOLDERS
+# Find 5 largest folder in /home/jim
+du -a /home/jim | sort -n -r | head -n 5
+
+# Find 10 largest folder in /home/jim
+# Display results in human readable format
+# and include sub-folders
+
+du -Sh /home/jim | sort -n -r | head -n 10
+
+# Find 5 largest folder in current folder
+du -a | sort -n -r | head -n 5
+
+
+# FILES
+find -type f -exec du -Sh {} + | sort -rh | head -n 10
+
+
