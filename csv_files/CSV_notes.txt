@@ -1,0 +1,6 @@
+# Create CSV with headers
+echo "HOSTNAME,PASSWORD" > SNMPv3.csv
+
+# Merge files with comma delimiter and append to CSV
+paste -d',' devices.txt passwords.txt >> SNMPv3.csv
+

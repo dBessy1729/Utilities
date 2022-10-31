@@ -1,0 +1,24 @@
+switch1:
+    HOSTNAME: switch1
+    PASSWORD: xxE8wPSBYUD89hcVyiIACiDktX9FFdps
+switch2:
+    HOSTNAME: switch2
+    PASSWORD: t0mHodWMOmBfr8yRq6XDNCzZURCLn4nR
+switch3:
+    HOSTNAME: switch3
+    PASSWORD: 8ODmNPZIMaO6CCBJ0xx88g7tDCKgHH7e
+switch4:
+    HOSTNAME: switch4
+    PASSWORD: Gvb794SwuYEuBGQk3aiSlQjym07ymSf9
+switch5:
+    HOSTNAME: switch5
+    PASSWORD: 7JrW2IsiflOgdDFDP6qWQfnMHAZxfFXQ
+switch6:
+    HOSTNAME: switch6
+    PASSWORD: jDdcF63pASz5vwp20kYEUhFJsgiVGtAG
+switch7:
+    HOSTNAME: switch7
+    PASSWORD: hk7jZVCezFBFtRziCG3lcSxw7gDkFgHs
+switch8:
+    HOSTNAME: switch8
+    PASSWORD: RdcOVRpZZl8KRq8w4hxT7Q0dBbprtqoW
